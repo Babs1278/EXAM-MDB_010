@@ -1,0 +1,2664 @@
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09080d"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "4c753b226e1511ea273f79e67f874f91284e423c", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2022-06-04 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-06-04T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090816"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "dc4ee329b3e2838baa7edc313f7b47f75429bcc3", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2022-05-03 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-05-03T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090818"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "2427229eccaacc4d15dc2597abdf2e9f0c78382e", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-05-01 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-05-01T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090819"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "420963dc65ccb0b8fd343d984c59a0ba47a10f57", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2022-04-30 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-04-30T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09081a"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "c6907162b6123900c6b74ad00f7c37408a23e1e5", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-04-29 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-04-29T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09081b"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "a872aaab7cdfd259add5043ee4e8fc06b4a1b7ba", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-04-24 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(3), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-04-24T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(3)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09081c"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "4b1756861b516a5fe2c532a0fe1f97efc895bd12", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-04-22 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-04-22T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(3)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090828"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "7e446fc2d670fc7a8225e426071bc3f7629128a9", 
+    "fields" : {
+        "code_qual" : NumberInt(4), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-03-30 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(4), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2022-03-30T02:00:00+02:00", 
+        "lib_qual" : "Mauvais", 
+        "code_pm10" : NumberInt(3)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090829"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "c4aa55070ed34e5b05e4f01396794a44e01a1194", 
+    "fields" : {
+        "code_qual" : NumberInt(4), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2022-03-27 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(4), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-03-27T01:00:00+01:00", 
+        "lib_qual" : "Mauvais", 
+        "code_pm10" : NumberInt(3)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09082a"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "0b6c9ffaa81f03060bbc04768c456f42e958d213", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-03-23 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2022-03-23T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09082b"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "06574b9e72ad3899d0bb1e7b6b3031fd32f0ac54", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-03-19 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-03-19T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09082c"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "8eacd5873ebbe2969a19525f16067f30210e01ee", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-03-16 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-03-16T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090833"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "9cf54350e025c0893a0ce5394f3dde4e40202837", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-02-26 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-02-26T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090834"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "d2973d85c2263a34bf614b61957921bdcf9b9d15", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-02-23 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2022-02-23T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09083a"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "e9ec15af56b10c91d605683d5b4bab775333b58a", 
+    "fields" : {
+        "code_qual" : NumberInt(4), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-01-25 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(4), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2022-01-25T01:00:00+01:00", 
+        "lib_qual" : "Mauvais", 
+        "code_pm10" : NumberInt(3)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09083f"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "151bb24c20edcf24c74ea77692cfe5ba67338986", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-01-02 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-01-02T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090840"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "e0612513b5de1bf946f03ef965dc48210ec03d2a", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-01-01 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-01-01T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090841"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "7dfb9ee7e6079dd91dff2f540ca4e1b1ee5c5f47", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-12-29 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-12-29T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090844"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "45468f21d2f3e2837c24ab4983846c9f5ad92d1b", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-12-25 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2021-12-25T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090845"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "802d6a50ab9aed6ee2e01ac057dc914cc3059ee8", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-12-23 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-12-23T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090848"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "11ebb89bc314f2a93f44ed397ddb0eb543097a84", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-12-14 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2021-12-14T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09086a"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "8cea7d346276e25fc5502f22d86c2186e60bc170", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-09-07 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-09-07T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09086c"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "95798035c804ed74a30ec98f9e3c1da894de9c9b", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-09-03 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-09-03T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090877"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "5d2010835a3d060e85f1a15a5c48ff288b2d29ae", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-07-30 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-07-30T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09087a"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "8db5443761fcd1d8318b055012dd4630615830a1", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-07-24 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-07-24T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09087b"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "e72d9a43aef969a2d40bb9cb50e73922fc1fe6c9", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-07-20 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-07-20T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090882"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "ca4f5edc70cb8db9674b3364844ed4b03393b1a0", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(0), 
+        "gml_id" : "ind_bretagne.2021-06-24 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(0), 
+        "code_pm25" : NumberInt(0), 
+        "code_no2" : NumberInt(0), 
+        "date_ech" : "2021-06-24T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(0)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090889"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "9c6d79c8e3d14ab9ece415c7d92b3097be14b3bc", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-05-30 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-05-30T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09088b"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "a8e911a8d986c70327852f8025bc689dced3d29e", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-05-25 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-05-25T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09088d"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "f9e8c9dc5ccd807f0b03b4ef3f6453bfac85c039", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-05-21 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-05-21T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090890"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "4ae37756525ee942c879feb15b3a9c83547fa8c3", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-05-10 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-05-10T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090896"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "440e7842f8206d39837b8c233efca489848f1f38", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-04-29 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-04-29T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090897"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "6a8c258aaf34084ef4fe39db54b93952eff3d43f", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-04-26 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-04-26T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090899"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "3f6546abf1b2045717e7d73e2cbfd9426c8de781", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-04-22 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(3), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-04-22T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09089d"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "42b00d9d7167364f14cfc3e296871a36cd9fd98c", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-04-04 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-04-04T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908a1"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "b5614f5bec17cc95db7f8d584c28f03bb5b19567", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-03-23 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-03-23T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908a3"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "916643e664623e8028eb3331be96d18c8bf0b8cf", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-03-18 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-03-18T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908a5"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "58f2fd772ddc6f9d65069b4b358946fdfe3437ff", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-03-14 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-03-14T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908a6"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "aab6478dc288b2f8a5e780acc86809d29c554f4a", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-03-11 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-03-11T01:00:00+01:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(3)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908a7"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "c372bd8bbaff65f4f4030c6d3c6c345d31155e80", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-03-09 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(3), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2021-03-09T01:00:00+01:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908a8"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "e68d857658235170819d7e47a12b8045a3d93d2d", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-02-28 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-02-28T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908a9"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "eaa7b64f1731aedc5f60f00382f3ab5c4307c9f8", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-02-27 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-02-27T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908ac"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "e2e8a6124fe389158f13844470d05e026228f063", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(1), 
+        "gml_id" : "ind_bretagne.2021-02-21 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(3), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-02-21T01:00:00+01:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908b1"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "67f9a0cee1139b43da026192ec1070061069bbbb", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-02-10 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(3), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-02-10T01:00:00+01:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908b3"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "f69f68c13ed765af224286c290fa8c4e7313d5d0", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-01-31 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-01-31T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908b5"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "d3a2ec5086ef34153b4848f311f9194f7e197c9e", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-01-25 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2021-01-25T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908b8"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "9aaeef0055c64a154c2abb73fcd56858cab8fd98", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-01-20 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-01-20T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908c2"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "3c2ae8e56220190f32c970ea57928deb53c2ff00", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(0), 
+        "gml_id" : "ind_bretagne.2022-06-14 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(0), 
+        "code_pm25" : NumberInt(0), 
+        "code_no2" : NumberInt(0), 
+        "date_ech" : "2022-06-14T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(0)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908c5"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "8cd5c95de2f5b1b01d4ef6d1c75c1f71752be1c1", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-06-11 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-06-11T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908c7"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "d15ad86b99a08ee447691f6244e1b55787821b71", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-06-03 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-06-03T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908cc"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "1155b0ac357ad3f53a1d0c65caff1083bb86a234", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2022-05-19 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-05-19T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908d3"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "5d80511c71e45b2d6326907caed876210020e146", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2022-04-28 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-04-28T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908d4"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "b0c8a7030b43da3c2b3a4ad471cba2fa05e7ce97", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-04-25 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-04-25T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908d5"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "f4ae8425c693ca442b7dde13cefc6a056a3ab62f", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-04-20 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-04-20T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908d7"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "a929507d76365ffad827dd9cf898e6257ad1d609", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-04-16 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2022-04-16T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908db"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "bbf747927845262c6123befe2943e4f97edf5b19", 
+    "fields" : {
+        "code_qual" : NumberInt(4), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2022-03-25 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(4), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-03-25T01:00:00+01:00", 
+        "lib_qual" : "Mauvais", 
+        "code_pm10" : NumberInt(4)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908e4"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "f5aab494e39b4aee9158bd7f977fb4139816c1ca", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-02-22 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-02-22T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908e5"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "601409c69ef7cd1b3b753147d2a829de15da14ac", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-02-21 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-02-21T01:00:00+01:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(3)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908e6"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "7b67cf4633bd62ce317d5eef02bd7b60710a4e7a", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(1), 
+        "gml_id" : "ind_bretagne.2022-02-19 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-02-19T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908eb"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "023b474fd9293022b750a5456e64fdeda372f37f", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-02-07 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-02-07T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908ec"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "17e85b133604e397615e9d1b41c9d1a7f8e850de", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-02-06 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-02-06T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908ef"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "29767b274463f4d3287901f81accd199d98b75d5", 
+    "fields" : {
+        "code_qual" : NumberInt(4), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-01-26 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(4), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2022-01-26T01:00:00+01:00", 
+        "lib_qual" : "Mauvais", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908f0"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "dfe45803cef59233b5646e9bc8c89744865e5fd9", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-01-23 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2022-01-23T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908f1"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "cdef17fad2582a24d20fbf88cc4671b93f1d5308", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-01-21 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2022-01-21T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908f3"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "70b05a59e8efdb71526d9ec7ae2beb5d878bbb2b", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-01-14 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(3), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2022-01-14T01:00:00+01:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908f6"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "9f26cc15345e9760f5291882d1304f6886127a4e", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-01-10 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2022-01-10T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908fb"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "875db2d5c62bae0cbea5398abac342e69c5ee0c6", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-01-04 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-01-04T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908fc"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "b38ba98aeae00ad3edecdb3503ac1ffdf1c10dec", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-12-31 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-12-31T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908fd"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "547fc9de721679f5f0cce25fb2f38a7dd37817d7", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-12-27 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-12-27T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0908fe"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "18a8e78b9cf2c7588b343be73cec1797ffb4ae3f", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-12-21 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-12-21T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090908"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "16c530e30a1d83c7da40f5fbb506e5d28643e82f", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-11-18 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2021-11-18T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09091c"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "fec70e10b9cef1fef08330211a1416deab2edf5f", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-09-04 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2021-09-04T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09091f"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "b63e1758975c4a3d33a4c0b09d184d9c00606254", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-08-25 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-08-25T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090929"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "d8a3671c15303349cca80a8d476903b5cd66ccde", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-07-23 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-07-23T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09092a"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "d8c03c98b236dc33603b6945da3d87d350a687df", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-07-21 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-07-21T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09092b"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "84a764440f91c108bfed3a174f656190d2e27e87", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-07-19 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-07-19T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090941"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "f1fa5695119a04b92e8edbc465105150648d74ce", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-05-24 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-05-24T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090942"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "eff418bf4f358455be0f2de1b57eb8402a44e9e0", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-05-20 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-05-20T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090944"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "db1ee8c4769caae0c85f0934245b359f59ee4929", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-05-16 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-05-16T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090946"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "de4fdc575e91b1b415a72d1195e2c370c1af7ff2", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-05-11 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-05-11T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09094b"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "b7717cac491db187aaf407d24adb3224c982aa97", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-04-21 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-04-21T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09094c"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "db6dbe3d889806bbc5cff1dee370a52f5adb7c45", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-04-20 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-04-20T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09094d"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "6d70f224e42b1cb5849e6a1300598b32bb1c9a4d", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(0), 
+        "gml_id" : "ind_bretagne.2021-04-18 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(0), 
+        "code_pm25" : NumberInt(0), 
+        "code_no2" : NumberInt(0), 
+        "date_ech" : "2021-04-18T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(0)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090950"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "0f9295284d478a74e0d2ba84104bf6226b308b00", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-04-01 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-04-01T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090951"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "d8e3b3ff6ed12554de1f7d3f77a8ff9ce4774440", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(0), 
+        "gml_id" : "ind_bretagne.2021-03-28 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(0), 
+        "code_pm25" : NumberInt(0), 
+        "code_no2" : NumberInt(0), 
+        "date_ech" : "2021-03-28T01:00:00+01:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(0)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090953"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "1632f28864a602d998b6008d53c93f834d69b72b", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-03-26 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-03-26T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090957"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "7b616729bc2083dd9495b85c5357607564e89779", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-03-13 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-03-13T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090958"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "290a7d7c785eb77d17415ef103a76b70986c7665", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-03-12 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-03-12T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09095a"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "2fd6572d1d792f1f1411e11af8f8ee96c5946d93", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-03-08 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2021-03-08T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09095b"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "f92f57f700d98e283aad412dfd7eac5d731489f4", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-03-07 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(3), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-03-07T01:00:00+01:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09095c"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "13b8eeb63651835ba1593474ff33be37e1f70bc1", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-03-06 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-03-06T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09095d"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "d7aa4be496ff7af228d06409825c634396e9c2e2", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-03-03 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-03-03T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09095e"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "7e1b54be92377c02c6e13dd1a44828e2510ac651", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-03-01 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(3), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2021-03-01T01:00:00+01:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090963"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "b5dadbb7c2f5da872fe46ef0c6bcb7b1cb9dd1f1", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(1), 
+        "gml_id" : "ind_bretagne.2021-02-09 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-02-09T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090967"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "966f0703b8eafcbeff63936a3db3c2cf254a6a9b", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-02-01 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-02-01T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090968"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "da792f6ab835881bca9f3a6c6862335d1461c7ad", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-01-30 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-01-30T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09096c"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "b7a1681ee6a59e8913ed294c52d41519d0d3bb73", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-01-17 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2021-01-17T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09096e"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "48997c43e0d74c31a27ef76188972022effb6c1a", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(1), 
+        "gml_id" : "ind_bretagne.2021-01-08 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2021-01-08T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090970"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "e2bf84a015542f72252f1c68840d129f165a6e3a", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-06-09 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-06-09T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09097d"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "3f1b442eb2264dc631a15b57f9ecd252f4146573", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-05-04 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-05-04T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09097e"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "e1a81aea642ce0dc6cc4677b2a90147e5f4e70a5", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-04-27 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-04-27T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09097f"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "042f7ff29db61b2933f3bc52b9e9fc24845366e0", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-04-26 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-04-26T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090980"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "bb55e50c6b9ea974874f5d2bd0b31f8f01c41a09", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-04-23 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(3), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-04-23T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(3)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090981"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "c34e71cf09f2dfbeca1986fb5453d90724ba7f78", 
+    "fields" : {
+        "code_qual" : NumberInt(4), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2022-04-21 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(4), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2022-04-21T02:00:00+02:00", 
+        "lib_qual" : "Mauvais", 
+        "code_pm10" : NumberInt(3)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090986"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "c51f94e7fe3dbed0ba769d7d7c4509a919102ab3", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-03-29 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(3), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2022-03-29T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(3)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090987"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "599a8cb4a3d5bd04165017a3c327df6df6bc1f37", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-03-28 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-03-28T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090988"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "e143c14652cb0be81af9a9f190e4f40eabd83238", 
+    "fields" : {
+        "code_qual" : NumberInt(4), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2022-03-26 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(4), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-03-26T01:00:00+01:00", 
+        "lib_qual" : "Mauvais", 
+        "code_pm10" : NumberInt(4)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090989"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "a02da8bb691a94b6b7cb8f99d2ba7f9c20758147", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2022-03-24 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2022-03-24T01:00:00+01:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(3)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09098a"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "1cfe50e6906626a46ad4b2ccf40a41ad9addeb65", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-03-21 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-03-21T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09098b"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "3c778243af868d63198289c08d90e59158c9c3f8", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-03-20 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(3), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-03-20T01:00:00+01:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09098e"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "7e8e3806dc03ad10387a80f994fe0912e1a54874", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-03-15 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2022-03-15T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090991"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "8366a08e908890b7b99c763430bf0db4b8905c5a", 
+    "fields" : {
+        "code_qual" : NumberInt(4), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-03-07 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(4), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-03-07T01:00:00+01:00", 
+        "lib_qual" : "Mauvais", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090994"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "5e2d7ba4cf1247b9907dcbc42aad5b97bf01f654", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-02-20 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-02-20T01:00:00+01:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(3)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090995"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "ee7a7791b3a64d4e903fcbd5d2b4225c7ee0e696", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-02-18 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-02-18T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090996"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "050c9331a75c536cc70c244d54e6489e0d903dd7", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-02-17 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(3), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-02-17T01:00:00+01:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(3)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090997"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "f8b8b851cf3259fa9594f7002805d8f28c898fc1", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-02-16 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-02-16T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09099b"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "ccb71ad930d7470fef94d79de319dda7e34b0a19", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-02-05 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-02-05T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09099e"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "09e4447b113fc1ea46699a999ac4194acc3c6fca", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-01-27 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-01-27T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd09099f"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "2fc08780f9e8d694eb935a5f6c6fe38e8b4ebf3a", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-01-24 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2022-01-24T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0909a0"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "ce597ad7b553db2340e6f28984f735795cc8a6d5", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-01-22 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-01-22T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0909a2"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "b3f17a89a14c23ac8ed6365083dad3e0e29bf988", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-01-15 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-01-15T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0909a4"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "0045dd77a6b78d1821aa62ff254ec86aeb930b31", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2022-01-03 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2022-01-03T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0909a5"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "d1a109ac408b561cecd58cb32a9fc4617de5c908", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-12-30 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-12-30T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0909a6"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "eb33404592ed05ed48d3954b9bbc6a531e12914d", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-12-24 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2021-12-24T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0909a7"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "de4a59bf70468e0b67226d8f3ead6087f3eaf882", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-12-22 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-12-22T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0909bf"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "843f49ba637696e1636e82cb9b7519b5df357b14", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-10-10 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-10-10T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0909d0"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "8ab7bbf292d78b7a85fa729593a11de009e015db", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-09-02 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-09-02T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0909df"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "100c30ab300ca179d4171a2d2ab1bca6b51f6afd", 
+    "fields" : {
+        "code_qual" : NumberInt(4), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(4), 
+        "gml_id" : "ind_bretagne.2021-07-22 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-07-22T02:00:00+02:00", 
+        "lib_qual" : "Mauvais", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0909e7"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "f08f8815a4947c2807aec2406849d7330acedfe5", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-06-30 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-06-30T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0909f1"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "ed0a03b4bb3f4d3fa3ba1954efb403c80a3f747d", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-05-31 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-05-31T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0909f4"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "4bdcb90a4724985780aa29a3f4c2d0c5a9da4a3c", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-05-17 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-05-17T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0909f5"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "e2b3b21da298c9ae2ce6ed36503a29afb38756b7", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-05-15 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-05-15T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(3)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0909f6"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "55644f2ed9e6dfd6432e10c9bb2b3bf49d8186fa", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-05-08 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-05-08T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0909f8"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "e5037c9ad2f20585ae96ef5709a303f401e487f7", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-04-30 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-04-30T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0909f9"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "305a0f5d2d0ad83ca4d822f0d2a108fdd21c12ae", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-04-28 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-04-28T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0909fa"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "75f666e01cd27e0d1e2bfd94ecdc4987a120badf", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-04-27 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-04-27T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd0909fb"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "94e9ffd5329e563405ddf2120c766a04612def77", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(3), 
+        "gml_id" : "ind_bretagne.2021-04-19 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-04-19T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090a04"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "921c4fae0d5ac28dd75049ab6c427bfd936b0803", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-04-05 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-04-05T02:00:00+02:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090a05"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "77a4da2969b874e47a420fb5ce1848cfcb863d9d", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-04-02 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-04-02T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(3)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090a06"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "c64f0f3bd62f3cfb6d19f41b24360f163d06a648", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-03-31 02:00:00+02.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2021-03-31T02:00:00+02:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(3)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090a0b"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "3f292d47a12904e062896f874d246cab7a794c38", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-03-04 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2021-03-04T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090a0c"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "3bbbaa997c0bc9e7c234581b11dad7f94aece73d", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-03-02 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(3), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2021-03-02T01:00:00+01:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(3)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090a0e"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "a4d4a17c38682d8c851dd44cbde07b8815212f45", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-02-20 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-02-20T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090a11"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "5f87da6fa7ff0340d50aab9a745ce7d1a843486c", 
+    "fields" : {
+        "code_qual" : NumberInt(3), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-02-11 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(3), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-02-11T01:00:00+01:00", 
+        "lib_qual" : "Dégradé", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090a13"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "89e84b6651fd75a9e7ac5b97202e0a2439da63f6", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-02-03 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-02-03T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090a14"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "c38aa81e70c50f9af99db05527d1ca1c4105ded4", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-02-02 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-02-02T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090a17"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "a0876421e0487131dc90d0e71bf80b4558cd9f45", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(2), 
+        "gml_id" : "ind_bretagne.2021-01-21 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(1), 
+        "code_no2" : NumberInt(1), 
+        "date_ech" : "2021-01-21T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
+{ 
+    "_id" : ObjectId("62a9dfc146b18de5dd090a1a"), 
+    "datasetid" : "qualite-de-lair@opendata-brest-metropole-finistere", 
+    "recordid" : "1ad2d9ac825265be822de24c12e47c964a103461", 
+    "fields" : {
+        "code_qual" : NumberInt(2), 
+        "lib_zone" : "Brest Métropole", 
+        "code_o3" : NumberInt(1), 
+        "gml_id" : "ind_bretagne.2021-01-07 01:00:00+01.242900314", 
+        "code_so2" : NumberInt(1), 
+        "code_pm25" : NumberInt(2), 
+        "code_no2" : NumberInt(2), 
+        "date_ech" : "2021-01-07T01:00:00+01:00", 
+        "lib_qual" : "Moyen", 
+        "code_pm10" : NumberInt(2)
+    }, 
+    "record_timestamp" : "2022-06-13T14:01:40.598+02:00"
+}
